@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: ??? ???? VIORR 59A - ??.ggsk
-// Generated 2024-12-18T13:48:32
+// Generated 2024-12-18T14:00:04
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -3070,7 +3070,7 @@ function pano2vrSkin(player,base) {
 				me._on.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
 				me._on.style.transition='background-color 0s, border-radius 0s';
 				if (me._on.ggCurrentLogicStateBackgroundColor == 0) {
-					me._on.style.backgroundColor="rgba(212,175,55,1)";
+					me._on.style.backgroundColor="rgba(255,255,255,1)";
 				}
 				else {
 					me._on.style.backgroundColor="rgba(255,255,255,0)";
@@ -3238,7 +3238,7 @@ function pano2vrSkin(player,base) {
 				me._off0.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
 				me._off0.style.transition='background-color 0s, border-radius 0s';
 				if (me._off0.ggCurrentLogicStateBackgroundColor == 0) {
-					me._off0.style.backgroundColor="rgba(212,175,55,1)";
+					me._off0.style.backgroundColor="rgba(255,255,255,1)";
 				}
 				else {
 					me._off0.style.backgroundColor="rgba(255,255,255,0)";
@@ -4325,7 +4325,7 @@ function pano2vrSkin(player,base) {
 				me._on_.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
 				me._on_.style.transition='background-color 0s, border-radius 0s';
 				if (me._on_.ggCurrentLogicStateBackgroundColor == 0) {
-					me._on_.style.backgroundColor="rgba(212,175,55,1)";
+					me._on_.style.backgroundColor="rgba(255,255,255,1)";
 				}
 				else {
 					me._on_.style.backgroundColor="rgba(255,255,255,0)";
@@ -4494,7 +4494,7 @@ function pano2vrSkin(player,base) {
 				me._off.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
 				me._off.style.transition='background-color 0s, border-radius 0s';
 				if (me._off.ggCurrentLogicStateBackgroundColor == 0) {
-					me._off.style.backgroundColor="rgba(212,175,55,1)";
+					me._off.style.backgroundColor="rgba(255,255,255,1)";
 				}
 				else {
 					me._off.style.backgroundColor="rgba(255,255,255,0)";
